@@ -13,7 +13,7 @@ Template to build a versatile blog forked from [jeffreytse](https://github.com/j
     2. change the entry for *banner* in [index.html](index.html) such that it points to your image of choice
 4. Go to [_config.yml](_config.yml) and change the values for
     1. title
-    2. email
+    2. emailyour awesome subheading
     3. author
     4. copyright
     5. description
