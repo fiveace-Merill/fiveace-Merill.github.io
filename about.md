@@ -1,4 +1,4 @@
-## Get to Know Chris James
+## Get to Know Freddie
 
 Hey, I'm Fredrick Ogutu, an enthusiastic beginner eager to learn the ropes of fullstack development. With a background in programming. Currently I am a student at Jomo Kenyatta Unversity of Agriculture and Technology persuing a degree in Mathematics and Computer Science. I'm ready to delve into the world of coding and explore its endless possibilities.
 
