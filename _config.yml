@@ -45,8 +45,8 @@ copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my online portfolio! Explore my journey, skills, and passions through this website. Discover who I am and what I bring to the table—a window into my world. Get acquainted with me and my journey in a nutshell—my story, accomplishments, and goals. Let's connect through this digital space, where you'll find a condensed version of my profile and aspirations.
 
-baseurl: "/in/freddie-ogutu-a5a923246/" # the subpath of your site, e.g. /blog
-url: "https://www.linkedin.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "assets/images/banners/charlesdeluvio-K4mSJ7kc0As-unsplash.jpg" # the favicon for your site
 
 # Yat date format
